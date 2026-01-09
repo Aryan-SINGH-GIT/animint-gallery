@@ -3,9 +3,8 @@ title: "Ports of Animation Gallery"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r}
 ```
-library(animint2)
-```
+
 animint2::gallery_html("repos.txt")
 ```
