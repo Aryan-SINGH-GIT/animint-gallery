@@ -1,0 +1,9 @@
+---
+title: "Ports of Animation Gallery"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(animint2)
+
+animint2::gallery_html("repos.txt")
