@@ -1,10 +1,1 @@
-tdhock/animint-gradient-descent
-tdhock/animint-lilac-chaser
-tdhock/animint-brownian-motion
-tdhock/animint-galton-box
-tdhock/animint-law-of-large-numbers
-tdhock/animint-newton-raphson
-tdhock/animint-monte-carlo
-tdhock/animint-hit-or-miss
-tdhock/animint-sample-mean
-tdhock/animint-coin-flips
+Aryan-SINGH-GIT/knn-animint
