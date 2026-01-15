@@ -1,3 +1,2 @@
-add.POSIXct,viz_owner_repo,viz_name,title,description
-2026-01-15T00:00:00Z,Aryan-SINGH-GIT/knn-animint,knn,K-Nearest Neighbors,Interactive animation showing how KNN classification works
-2026-01-15T17:07:32.821442Z,Aryan-SINGH-GIT/knn-animint,,Based on animation::knn.ani(),k-Nearest Neighbors Classification
+add.POSIXct,viz_owner_repo,video,source,title
+2026-01-15T17:12:10.929753Z,Aryan-SINGH-GIT/knn-animint,,Based on animation::knn.ani(),k-Nearest Neighbors Classification
