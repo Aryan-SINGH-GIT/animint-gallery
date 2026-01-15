@@ -75,3 +75,5 @@ if(nrow(error.dt)){
 
 ## Source code
 
+* [This gallery repository](https://github.com/Aryan-SINGH-GIT/animint-gallery),
+* [`animint2::update_gallery()`](https://github.com/animint/animint2/blob/master/R/z_pages.R).
